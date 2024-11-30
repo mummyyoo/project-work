@@ -1,0 +1,11 @@
+.question{
+    background-image: url(../images/healthworker.jpg);
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    height: 50rem;
+    background-position: center;
+    text-align: start;
+    padding-top: 30rem;
+    margin-bottom: 30PX;
+}
